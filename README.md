@@ -14,7 +14,9 @@ This app requires Java 8+ to run
 ## Building and Running
 
 > navigate to the project root
+
 > gradle build
+
 > java -jar build/libs/file-downloader-0.0.1-SNAPSHOT.jar
 
 Spring Shell will boot up and provide a shell prompt:
@@ -27,27 +29,28 @@ Spring Shell provides syntax highlighting, help and auto-complete
 Command will highlight when valid
 
 general help
-shell:>help
+>shell:>help
 
 command help
-shell:>help setup
+>shell:>help setup
 
 print current configuration
-shell:>env
+>shell:>env
 
 modify all configuration parameters
-shell:>setup --url <url> --save-directory <directory> --output-file <path-to-file> --chunk-size <size in bytes> --chunks <number of chunks to download
+>shell:>setup --url <url> --save-directory <directory> --output-file <path-to-file> --chunk-size <size in bytes> --chunks <number of chunks to download
 
 modify single configuration parameter example
-shell:>setup --chunk-size <size in bytes>
+>shell:>setup --chunk-size <size in bytes>
 
 download file using current configuration
-shell:>download
+>shell:>download
 
 download file using ad-hoc url
-shell:>download http://s3.amazon.com/somefile
+>shell:>download http://s3.amazon.com/somefile
 
 ## Tests
 
 Unit Tests are automatically run as part of the gradle build process
-Skip tests: gradle build -x test
+Skip tests: 
+>gradle build -x test
