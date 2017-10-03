@@ -1,0 +1,117 @@
+1506917459482:setup
+1506917470949:help
+1506917488781:stacktrace
+1506917501117:help setup
+1506917560250:setup --url "http://xyz.com" --save-directory ~/Downloads/output/ --chunk-size=1024 --number-of-chunks=4
+1506917579009:setup --url "http://xyz.com" --save-directory ~/Downloads/output/ --chunk-size 1024 --number-of-chunks 4
+1506919908831:env
+1506919914565:setup
+1506919918941:help setup
+1506919934548:download
+1506920107373:env
+1506920108844:setup
+1506922237020:env
+1506922240275:setup
+1506922246411:download
+1506980812544:quit
+1506981609440:env
+1506981611503:download
+1506982972014:setup help
+1506982979245:help setup
+1506982992420:setup --save-directory ~/test
+1506982994476:env
+1506983018211:setup http://192.168.99.100:8080/384MB.jar
+1506983019290:env
+1506983041433:setup chunk-size 1,024,000
+1506983043377:env
+1506983083040:help
+1506990694086:setup
+1506990698491:env
+1506990704180:setup dowh
+1506990706963:env
+1506990803241:setup
+1506990806279:setup htkf
+1506990821278:setup --chunks 5
+1506990823102:env
+1506990834053:setup --chunk-size 1,024,000
+1506990855397:setup --chunk-size 1024000
+1506990858661:env
+1506990863508:download
+1506990872164:setup --save-directory ~/test/
+1506990875404:setup --save-directory ~/test
+1506990901507:setup --save-directory /Users/justinschwartz/test
+1506990903179:env
+1506990905202:download
+1506990955442:setup help
+1506990958416:help setup
+1506990977336:setup --save-directory ~/test
+1506990980215:setup --save-directory ~/test/
+1506990989231:setup --save-directory /Users/justinschwartz/test
+1506990990815:env
+1506990992967:download
+1506996653772:env
+1506996672473:setup --save-directory=/Users/justinschwartz/test
+1506996681073:setup --save-directory /Users/justinschwartz/test
+1506996683553:env
+1506996689353:download
+1506996777383:setup --save-directory=/Users/justinschwartz/test
+1506996783308:setup --save-directory /Users/justinschwartz/test
+1506996786588:download
+1506996793164:env
+1506996951613:exit
+1506996970710:setup --fhads
+1506996971716:env
+1506996975628:exit
+1506996981157:env
+1506996985067:exit
+1506997144775:env
+1506997339828:setup --fdjk
+1506997340676:env
+1506997357027:setup --save-directory=/Users/justinschwartz/test
+1506997362427:setup --save-directory /Users/justinschwartz/test
+1506997364347:env
+1506997369818:download
+1506997453344:setup --save-directory=/Users/justinschwartz/test
+1506997458878:setup --save-directory /Users/justinschwartz/test
+1506997461238:download
+1506997656856:env
+1506997706859:setup --save-directory /Users/justinschwartz/test
+1506997708251:env
+1506997711651:download
+1506997890772:setup --save-directory /Users/justinschwartz/test
+1506997892211:env
+1506997897731:download
+1506998719639:setup --save-directory /Users/justinschwartz/test
+1506998721966:download
+1506998818377:exit
+1506999023308:download
+1507004502130:exit
+1507004509051:download
+1507008045538:stacktrae
+1507008048738:stacktrace
+1507008166893:download
+1507010346522:env
+1507010392295:download
+1507010608887:env
+1507010625709:setup --chunk-size=1024000
+1507010629709:setup --chunk-size 1024000
+1507010631061:env
+1507010634829:download
+1507010649084:s
+1507010657956:help setup
+1507010664419:setup --chunks 6
+1507010666355:download
+1507039398215:help download
+1507039405276:env
+1507039408516:exit
+1507049316158:download
+1507049379596:env
+1507049383514:download
+1507049442272:env
+1507049460487:help setup
+1507049871609:exit
+1507049891778:setup --save-directory=~/xyz
+1507049902071:setup --save-directory ~/xyz
+1507050052106:env
+1507051666177:help setup
+1507051877280:exit
