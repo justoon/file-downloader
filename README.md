@@ -20,7 +20,7 @@ This app requires Java 8+ to run
 > java -jar build/libs/file-downloader-0.0.1-SNAPSHOT.jar
 
 Spring Shell will boot up and provide a shell prompt:
-shell:>
+>shell:>
 
 ## Command Reference
 
@@ -38,10 +38,10 @@ print current configuration
 >shell:>env
 
 modify all configuration parameters
->shell:>setup --url <url> --save-directory <directory> --output-file <path-to-file> --chunk-size <size in bytes> --chunks <number of chunks to download
+>shell:>setup --url [url] --save-directory [directory] --output-file [path-to-file] --chunk-size [size in bytes] --chunks [number of chunks to download]
 
 modify single configuration parameter example
->shell:>setup --chunk-size <size in bytes>
+>shell:>setup --chunk-size [size in bytes]
 
 download file using current configuration
 >shell:>download
